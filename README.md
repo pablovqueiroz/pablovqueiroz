@@ -1,4 +1,11 @@
-# 👨🏻‍💻 Pablo Queiroz
+<h1 align="left">
+  👨🏻‍💻 Pablo Queiroz
+  <img 
+    src="https://komarev.com/ghpvc/?username=pablovqueiroz" 
+    alt="Profile views"
+    align="right"
+  />
+</h1>
 
 **`Full Stack Developer`**
 
