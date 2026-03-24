@@ -16,35 +16,18 @@ I have been building practical projects with HTML, CSS, JavaScript, TypeScript, 
 In addition to my technical path, I bring more than 10 years of experience in corporate environments, which strengthened my communication, adaptability, problem-solving, and collaboration skills.
 
 <p align="left">
-    <a href="https://pabloqueiroz.netlify.app/">
-        <img 
-            alt="Portfolio" 
-            title="Visit my portfolio" 
-            src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-6f42c1?style=for-the-badge&logo=browser&logoColor=white"
-        />
-    </a>
-        <a href="https://www.linkedin.com/in/pablo-queiroz/">
-        <img 
-            alt="LinkedIn" 
-            title="Connect on LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/pablovqueiroz?tab=followers">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/pablovqueiroz?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/pablovqueiroz?tab=repositories&sort=stargazers">
-        <img 
-            alt="Stars" 
-            title="GitHub stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/pablovqueiroz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-
+  <a href="https://pabloqueiroz.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-visit-6f42c1?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/pablo-queiroz/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=data%3Aimage%2Fsvg+xml%3Bbase64%2CPHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/pablovqueiroz?tab=followers">
+    <img src="https://img.shields.io/github/followers/pablovqueiroz?style=flat&logo=github&label=followers" alt="Followers" />
+  </a>
+  <a href="https://github.com/pablovqueiroz?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/pablovqueiroz?style=flat&logo=github&label=stars" alt="Stars" />
+  </a>
 </p>
 
 ---
