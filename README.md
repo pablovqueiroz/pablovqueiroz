@@ -9,6 +9,20 @@ I have been building practical projects with HTML, CSS, JavaScript, TypeScript, 
 In addition to my technical path, I bring more than 10 years of experience in corporate environments, which strengthened my communication, adaptability, problem-solving, and collaboration skills.
 
 <p align="left">
+    <a href="https://pabloqueiroz.netlify.app/">
+        <img 
+            alt="Portfolio" 
+            title="Visit my portfolio" 
+            src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-6f42c1?style=for-the-badge&logo=browser&logoColor=white"
+        />
+    </a>
+        <a href="https://www.linkedin.com/in/pablo-queiroz/">
+        <img 
+            alt="LinkedIn" 
+            title="Connect on LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
     <a href="https://github.com/pablovqueiroz?tab=followers">
         <img 
             alt="Followers" 
@@ -23,20 +37,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
             src="https://custom-icon-badges.demolab.com/github/stars/pablovqueiroz?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
         />
     </a>
-    <a href="https://www.linkedin.com/in/pablo-queiroz/">
-        <img 
-            alt="LinkedIn" 
-            title="Connect on LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://pabloqueiroz.netlify.app/">
-        <img 
-            alt="Portfolio" 
-            title="Visit my portfolio" 
-            src="https://custom-icon-badges.demolab.com/badge/Portfolio-Visit-6f42c1?style=for-the-badge&logo=browser&logoColor=white"
-        />
-    </a>
+
 </p>
 
 ---
