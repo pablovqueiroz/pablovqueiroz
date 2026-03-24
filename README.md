@@ -159,12 +159,6 @@ In addition to my technical path, I bring more than 10 years of experience in co
 <br/>
 <br/>
 
-### 📌 Featured Projects
-
-- [Portfolio](https://pabloqueiroz.netlify.app/)
-- [Budgetivo](https://budgetivo.vercel.app/)
-- [Rot Right On Time](https://rot-right-on-time.vercel.app/)
-- [GitHub Repositories](https://github.com/pablovqueiroz)
 
 ### 📊 Statistics
 
