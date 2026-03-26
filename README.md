@@ -164,18 +164,17 @@ In addition to my technical path, I bring more than 10 years of experience in co
 </p>
 
 <p>
-  <img
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pablovqueiroz&show_icons=true&theme=tokyonight&cache_seconds=1800"
-  />
-  <img
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://temp-cache-indexing.vercel.app/api/top-langs/?username=pablovqueiroz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8&cache_seconds=1800"
-  />
+<img
+  align="left" 
+  alt="GitHub Stats" 
+  height="200" 
+  src="./github-stats/github-stats.svg"
+/>
+&nbsp;&nbsp;
+<img
+  align="left" 
+  alt="Top Languages" 
+  height="200" 
+  src="./github-stats/top-langs.svg"
+/>
 </p>
