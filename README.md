@@ -176,6 +176,6 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="Top Languages" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablovqueiroz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8&cache_seconds=1800"
+    src="https://temp-cache-indexing.vercel.app/api/top-langs/?username=pablovqueiroz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8&cache_seconds=1800"
   />
 </p>
