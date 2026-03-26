@@ -13,21 +13,29 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Generate GitHub stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: 'username=pablovqueiroz&show_icons=true&theme=tokyonight'
+          path: github-stats/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate top languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=pablovqueiroz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8
+          options: 'username=pablovqueiroz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=8'
           path: github-stats/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Commit generated card
+      - name: Commit generated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add github-stats/top-langs.svg
+          git add github-stats/
           git commit -m "chore: update readme stats" || exit 0
           git push
