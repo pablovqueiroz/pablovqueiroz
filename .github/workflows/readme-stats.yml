@@ -43,9 +43,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
       
           git fetch origin main
-          git stash --include-untracked        # ← stash any working-tree changes
           git pull --rebase origin main
-          git stash pop                        # ← restore them after rebase
       
           git add github-stats/
           git diff --cached --quiet && exit 0
