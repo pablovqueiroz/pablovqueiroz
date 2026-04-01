@@ -65,7 +65,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/js-icon.svg"
 />
@@ -73,7 +73,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="40px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/ts-icon.svg"
 />
