@@ -182,6 +182,10 @@ In addition to my technical path, I bring more than 10 years of experience in co
     src="https://techstack-generator.vercel.app/django-icon.svg" 
 />
 
+<br/>
+<br/>
+<br/>
+
 ### 📊 Statistics
 
 </p>
