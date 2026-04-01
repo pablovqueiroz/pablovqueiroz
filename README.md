@@ -193,3 +193,5 @@ In addition to my technical path, I bring more than 10 years of experience in co
   src="./github-stats/top-langs.svg"
 />
 </p>
+
+<img src="https://raw.githubusercontent.com/pablovqueiroz/pablovqueiroz/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" style="max-width: 100%;">
