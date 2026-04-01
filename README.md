@@ -49,7 +49,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -57,7 +57,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -65,7 +65,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/js-icon.svg"
 />
@@ -73,7 +73,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="TypeScript"
     title="TypeScript" 
-    width="35px" 
+    width="40px" 
     style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/ts-icon.svg"
 />
@@ -81,7 +81,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="React"
     title="React" 
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/react-icon.svg"
 />
@@ -89,7 +89,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="Next.js" 
     title="Next.js"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
@@ -97,7 +97,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="Tailwind CSS"
     title="Tailwind CSS" 
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
@@ -105,7 +105,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="Node.js" 
     title="Node.js"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
@@ -113,7 +113,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="Express" 
     title="Express"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
 />
@@ -121,7 +121,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -129,7 +129,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="MongoDB" 
     title="MongoDB"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
@@ -137,7 +137,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/mysql-icon.svg" 
 />
@@ -145,7 +145,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="Prisma" 
     title="Prisma"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
 />
@@ -153,7 +153,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="Git" 
     title="Git"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
@@ -161,7 +161,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="GitHub" 
     title="GitHub"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/github-icon.svg"
 />
@@ -169,7 +169,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="Python" 
     title="Python"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/python-icon.svg" 
 />
@@ -177,7 +177,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     align="left" 
     alt="Django" 
     title="Django"
-    width="35px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://techstack-generator.vercel.app/django-icon.svg" 
 />
