@@ -50,7 +50,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -58,7 +58,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
 <img 
@@ -66,7 +66,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="JavaScript" 
     title="JavaScript"
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://techstack-generator.vercel.app/js-icon.svg"
 />
 <img 
@@ -74,7 +74,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="TypeScript"
     title="TypeScript" 
     width="40px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://techstack-generator.vercel.app/ts-icon.svg"
 />
 <img 
@@ -82,7 +82,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://techstack-generator.vercel.app/react-icon.svg"
 />
 <img 
@@ -90,7 +90,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="Next.js" 
     title="Next.js"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
 />
 <img 
@@ -98,7 +98,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="Tailwind CSS"
     title="Tailwind CSS" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
 <img 
@@ -106,7 +106,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="Node.js" 
     title="Node.js"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 <img 
@@ -114,7 +114,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="Express" 
     title="Express"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
 />
 <img 
@@ -122,7 +122,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="PostgreSQL" 
     title="PostgreSQL"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
@@ -130,7 +130,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="MongoDB" 
     title="MongoDB"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
 />
 <img 
@@ -138,7 +138,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="MySQL" 
     title="MySQL"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://techstack-generator.vercel.app/mysql-icon.svg" 
 />
 <img 
@@ -146,7 +146,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="Prisma" 
     title="Prisma"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" 
 />
 <img 
@@ -154,7 +154,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -162,7 +162,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="GitHub" 
     title="GitHub"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://techstack-generator.vercel.app/github-icon.svg"
 />
 <img 
@@ -170,7 +170,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="Python" 
     title="Python"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://techstack-generator.vercel.app/python-icon.svg" 
 />
 <img 
@@ -178,7 +178,7 @@ In addition to my technical path, I bring more than 10 years of experience in co
     alt="Django" 
     title="Django"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 5px;" 
     src="https://techstack-generator.vercel.app/django-icon.svg" 
 />
 
