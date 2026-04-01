@@ -1,5 +1,6 @@
 <h1 align="left">
   👨🏻‍💻 Pablo Queiroz
+  
   <img 
     src="https://komarev.com/ghpvc/?username=pablovqueiroz" 
     alt="Profile views"
@@ -16,7 +17,10 @@ I have been building practical projects with HTML, CSS, JavaScript, TypeScript, 
 In addition to my technical path, I bring more than 10 years of experience in corporate environments, which strengthened my communication, adaptability, problem-solving, and collaboration skills.
 
 <p align="left">
-  <a href="https://pabloqueiroz.netlify.app/">
+  <a href="https://www.linkedin.com/in/pablo-queiroz/">
+  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-2ea44f?style=flat" alt="Open to Opportunities" />
+  </a>
+    <a href="https://pabloqueiroz.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-visit-6f42c1?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/pablo-queiroz/">
