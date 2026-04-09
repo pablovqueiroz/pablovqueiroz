@@ -43,7 +43,9 @@ In addition to my technical path, I bring more than 10 years of experience in co
 
 ---
 
-### 🤖 Languages and Technologies
+<p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=6000&color=00F6FF&left=true&vCenter=true&width=520&lines=⚡+Tech+Stack+%26+Tools+⚡"/>
+</p>
 
 <img 
     align="left" 
