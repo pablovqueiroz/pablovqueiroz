@@ -1,6 +1,5 @@
 <h1 align="left">
   👨🏻‍💻 Pablo Queiroz
-  
   <img 
     src="https://komarev.com/ghpvc/?username=pablovqueiroz" 
     alt="Profile views"
